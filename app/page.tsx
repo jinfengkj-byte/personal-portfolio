@@ -130,7 +130,7 @@ export default function Home() {
       <nav className="nav-shell" aria-label="主导航">
         <a className="brand" href="#top" onClick={(event) => goToSection(event, "top")}>
           <span className="brand-mark"><img src="/favicon.svg" alt="" /></span>
-          <span className="brand-copy"><strong>刘的 AI Portfolio</strong><small>联系方式 13247496888</small></span>
+          <span className="brand-copy"><strong>刘的 AI Portfolio</strong><small>联系方式 13021857963</small></span>
         </a>
         <div className="nav-links">
           <a href="#work" onClick={(event) => goToSection(event, "work")}>作品</a>
@@ -279,7 +279,7 @@ export default function Home() {
 
       <footer>
         <div><span className="brand-mark"><img src="/favicon.svg" alt="" /></span><strong>AI PRODUCT LAB</strong></div>
-        <p>产品合作与交流 · 13247496888 · 2026</p>
+        <p>产品合作与交流 · 13021857963 · 2026</p>
       </footer>
 
       {active && (
