@@ -2,6 +2,8 @@
 
 这是我的个人 AI 产品作品集源码，用于展示从问题判断、产品设计到工程实现与上线交付的项目实践。
 
+**在线作品集：** [https://portfolio.type16test.top](https://portfolio.type16test.top)
+
 ## 核心案例
 
 - **OfferPilot**：AI 求职决策与行动系统
